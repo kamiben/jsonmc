@@ -1,0 +1,35 @@
+{
+  "name": "Avengers: Endgame",
+  "year": 2019,
+  "runtime": 181,
+  "categories": [
+    "action",
+    "thriller",
+    "sci-fi",
+	"superhero"
+  ],
+  "release-date": "2019-04-22",
+  "director": "Anthony and Joe Russo",
+  "writer": [
+    "Christopher Markus",
+    "Stephen McFeely"
+  ],
+  "actors": [
+    "Robert Downey Jr."
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Chris Hemsworth",
+    "Scarlett Johansson",
+    "Jeremy Renner",
+    "Don Cheadle",
+    "Paul Rudd",
+    "Brie Larson",
+    "Karen Gillan",
+    "Vin Diesel",
+    "Bradley Cooper",
+    "Josh Brolin",
+    "Chris Pratt",
+    "Samuel L. Jackson"
+  ],
+  "storyline": "Twenty-three days after Thanos used the Infinity Gauntlet to disintegrate half of all life in the universe,[N 1] Carol Danvers rescues Tony Stark and Nebula from deep space and returns them to Earth, where they reunite with the remaining Avengers—Bruce Banner, Steve Rogers, Thor, Natasha Romanoff, and James Rhodes—and Rocket. Locating Thanos on an otherwise uninhabited planet"
+}
