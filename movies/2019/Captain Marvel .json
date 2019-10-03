@@ -1,0 +1,32 @@
+{
+  "name": "Captain Marvel",
+  "year": 2019,
+  "runtime": 124,
+  "categories": [
+    "action",
+    "thriller",
+    "sci-fi",
+	"superhero"
+  ],
+  "release-date": "2019-05-08",
+  "director": "Anna Boden Ryan Fleck",
+  "writer": [
+    "Anna Boden",
+    "Ryan Fleck",
+    "Geneva Robertson-Dworet",
+    "Jac Schaeffer" 
+	],
+  "actors": [
+    "Brie Larson",
+    "Samuel L. Jackson",
+    "Ben Mendelsohn",
+    "Djimon Hounsou",
+    "Lee Pace"
+    "Lashana Lynch",
+    "Gemma Chan",
+    "Clark Gregg",
+    "Annette Bening",
+    "Jude Law"
+  ],
+  "storyline": "Twenty-three days after Thanos used the Infinity Gauntlet to disintegrate half of all life in the universe,[N 1] Carol Danvers rescues Tony Stark and Nebula from deep space and returns them to Earth, where they reunite with the remaining Avengers—Bruce Banner, Steve Rogers, Thor, Natasha Romanoff, and James Rhodes—and Rocket. Locating Thanos on an otherwise uninhabited planet"
+}
