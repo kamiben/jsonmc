@@ -1,0 +1,22 @@
+{
+  "name": "A Dog's Journey",
+  "year": 2019,
+  "runtime": 100,
+  "categories": [
+    "comedia",
+    "familiar",
+    "aventura"
+  ],
+  "release-date": "2019-05-13",
+  "director": "Gail Mancuso",
+  "writer": [
+    "Gavin Polone",
+
+  ],
+  "actors": [
+    "Josh Gad",
+    "Dennis Quaid",
+    "Marg Helgenberger"
+  ],
+  "storyline": "Bailey, el perro, vive una vida feliz en la granja de Michigan de su "chico", Ethan, la esposa de Ethan, Hannah, y su nieta, CJ. El problema es que la madre de CJ decide llevarse a CJ"
+}
